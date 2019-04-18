@@ -1,6 +1,6 @@
 # asteroids
-A simple space game like arcade made with Javascript Canvas.
-This project was made just for study.
+A simple space game built with Javascript and Canvas.
+This project was doen just for fun.
 
 ## how to use
 clone project end execute:
